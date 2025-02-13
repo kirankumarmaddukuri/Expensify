@@ -24,5 +24,7 @@ Local Storage: Data persistence for offline use.
 This application provides a comprehensive, user-friendly solution for expense management, making financial tracking easier and more accessible.
 
 Set Up Installation : -
+
 -->Download dependencies by running npm  install
+
 -->Start up the app using npm start
